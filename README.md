@@ -22,7 +22,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+
 The biggest challenge was simply configuring xCode itself. The new version of xCode made it a little more difficult to simply configure and run the app. After debugging and configuring, everything else worked out fine.
 
 ## License
